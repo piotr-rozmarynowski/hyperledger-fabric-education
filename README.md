@@ -98,7 +98,7 @@ Prywatny [kanał Hyperledger Fabric](#elementy-hyperledger-fabric) pozwala Sarze
 
 ### Krok 0 - maszyna wirtualna
 
-Po pobraniu maszyny wirtualnej, należy otworzyć VirtualBoxa (lub VMware, jednak w tym przykładzie posłużę się VirtualBoxem), nastepnie z menu głównego wybrać `File`, a następnie `Import appliance...`. Otworzy się okno importowania obrazu formatu Open VM (*.ovm):
+Po pobraniu maszyny wirtualnej, należy otworzyć VirtualBoxa (lub VMware, jednak w tym przykładzie posłużono się VirtualBoxem), nastepnie z menu głównego wybrać `File`, a następnie `Import appliance...`. Otworzy się okno importowania obrazu formatu Open VM (*.ovm):
 
 ![1557528148338](https://raw.githubusercontent.com/piotr-rozmarynowski/hyperledger-fabric-education/master/images/1557528148338.png)
 
