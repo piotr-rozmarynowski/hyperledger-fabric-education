@@ -34,7 +34,7 @@ Powyższa maszyna wirtualna zawiera zainstalowane pakiety:
 
 ## Zagadnienia ze świata blockchain
 
-Moses Sam Paul w bardzo klarowny i dość szczegółowy jak na początek sposób opisał podstawy blockchaina w [tym wpisie](https://medium.com/swlh/hyperledger-chapter-1-foundation-7ad5bd94d452), tutaj natomiast zostały opisane tylko najbardziej kluczowe koncepty.
+Moses Sam Paul w bardzo klarowny i dość szczegółowy sposób (jak dla początkujących) opisał podstawy blockchaina w [tym wpisie](https://medium.com/swlh/hyperledger-chapter-1-foundation-7ad5bd94d452), tutaj natomiast zostały opisane tylko najbardziej kluczowe koncepty.
 
 #### Blockchain - [Wiki](<https://pl.wikipedia.org/wiki/Blockchain>)
 
