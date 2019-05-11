@@ -131,9 +131,7 @@ Gdy zajrzymy do środka kodu `startFabric.sh`, zauważymy, że wywoływane są: 
 
 **Docker**
 
-Pobierane są obrazy dockerowe, stawiana jest sieć dla kontenerów.
-
-Za pomocą docker compose instancjonowane są kontenery:
+Pobierane są obrazy dockerowe, stawiana jest sieć dla kontenerów, a za pomocą docker-compose instancjonowane są kontenery:
 
 - orderer.example.com
 - couchdb
