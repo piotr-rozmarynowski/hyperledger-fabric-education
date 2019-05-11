@@ -12,7 +12,7 @@ Jest to krótki instruktarz pokazujący możliwości frameworka blockchainowego 
 
 ## Problem
 
-Przedmiotem merytorycznym opisywanym w tym materiale jest aplikacja  dostępna w oficjalnym [repozytorium](https://github.com/hyperledger/education) Hyperledger'a, a treść została opracowana na podstawie serii artykułów Mosesa Sam Paula pt. Hyperledger - Blockchain for Business, w której przedstawia on pewien przypadek użycia blockchaina jako jedno z rozwiązań problemu nielegalnego połowu tuńczyków: [Tuna 2020 Traceability Declaration](https://www.weforum.org/agenda/2017/06/tuna-2020-traceability-declaration-stopping-illegal-tuna-from-coming-to-market/).
+Przedmiotem merytorycznym opisywanym w tym materiale jest aplikacja  dostępna w oficjalnym [repozytorium](https://github.com/hyperledger/education) Hyperledger'a. Treść została opracowana na podstawie serii artykułów Mosesa Sam Paula pt. Hyperledger - Blockchain for Business, w której przedstawia on pewien przypadek użycia blockchaina jako jedno z rozwiązań problemu nielegalnego połowu tuńczyków: [Tuna 2020 Traceability Declaration](https://www.weforum.org/agenda/2017/06/tuna-2020-traceability-declaration-stopping-illegal-tuna-from-coming-to-market/).
 
 [Materiał](<https://medium.com/swlh/hyperledger-chapter-5-tuna-fishing-supplychain-context-f593b03e2cf0>) Sam Paula.
 
