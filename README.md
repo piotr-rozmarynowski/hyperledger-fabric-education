@@ -4,8 +4,8 @@ Jest to krótki instruktarz pokazujący możliwości frameworka blockchainowego 
 ## Spis treści
 
 - [Problem](#problem)
-- [Potrzebne materiały](#potrzebne-materialy)
-- [Zagadnienia ze świata blockchain](#zagadnienia-ze-swiata-blockchain)
+- [Potrzebne materiały](#potrzebne-materiały)
+- [Zagadnienia ze świata blockchain](#zagadnienia-ze-świata-blockchain)
   - [Elementy Hyperledger Fabric](#elementy-hyperledger-fabric)
 - [Kontekst zadania](#kontekst-zadania)
 - [Zadanie praktyczne](#zadanie-praktyczne)
