@@ -281,3 +281,4 @@ Wszystkie powyższe pliki js mają odwołanie w smart kontrakcie w języku GO: `
 
 W ramach przetestowania technologii zachęcam do samodzielnego dodania opcji usuwania rekordu z ledgera. Będzie do wymagało edycji pliku `controller.js`, dodanie routingu w `routes.js`, utworzenie pliku `tuna-app/src/removeTuna.js` i zapisaniu nowej funkcjonalności w `tuna-chaincode.go`.
 
+Jednak najpierw dobrym pomysłem będzie instalacja lekkiego edytora / IDE, np [Visual Studio Code](https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/).
