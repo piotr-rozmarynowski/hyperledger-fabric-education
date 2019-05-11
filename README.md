@@ -42,7 +42,7 @@ Moses Sam Paul w bardzo klarowny i dość szczegółowy sposób (jak dla począt
 
 #### Distributed Ledger Technology (DLT)
 
-Ledger to księga rachunkowa. A rozproszony ledger to rodzaj struktury danych przechowywany jednocześnie na wielu urządzeniach (node'ach) z reguły rozproszonych w wielu lokalizacjach i regionach.
+Ledger to księga główna transakcji. A rozproszony ledger to rodzaj struktury danych przechowywany jednocześnie na wielu urządzeniach (node'ach) z reguły rozproszonych w wielu lokalizacjach i regionach.
 
 Ogólnie rzecz biorąc, DLT łączy w sobie technologie blockchainowe i smart kontrakty: 
 
