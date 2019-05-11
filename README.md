@@ -21,8 +21,8 @@ Przedmiotem merytorycznym opisywanym w tym materiale jest aplikacja  dostępna w
 - [VirtualBox](<https://www.virtualbox.org/>) lub [VMware player](https://www.vmware.com/products/workstation-player.html)
   Manadżer maszyn wirtualnych do zainstancjonowania poniższej.
 - [Maszyna wirtualna](http://venstudio.pl/hyperledger-fabric-education/vm.ova) - login: hyper, hasło: hyper
-  W celu przyspieszenia procesu inicjalizacji środowiska koniecznego do wypróbowania opisywanej **aplikacji tuńczykowej**, na potrzeby tego instruktarzu została przygotowana maszyna wirtualna oparta o system operacyjny Ubuntu 18 desktop, gotowa do uruchomienia sieci blockchain i aplikacji. 
-
+  W celu przyspieszenia procesu inicjalizacji środowiska koniecznego do wypróbowania opisywanej **aplikacji tuńczykowej**, na potrzeby tego instruktarzu została przygotowana maszyna wirtualna oparta o system operacyjny Ubuntu 18 desktop, gotowa do uruchomienia sieci blockchain i aplikacji.
+  `shasum`: `42ef8c54ad7b796b82acb96fc0a9b14f8e05da70`
 Powyższa maszyna wirtualna zawiera zainstalowane pakiety:
 
 - [Docker](https://docs.docker.com/)
